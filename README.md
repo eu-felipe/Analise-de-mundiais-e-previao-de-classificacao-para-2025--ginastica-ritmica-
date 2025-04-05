@@ -1,0 +1,2 @@
+# Analise de mundiais e previao de classificacao para 2025 (ginastica ritmica)
+ Com este reositório, é possível fazer uma análise detalhada dos países participantes dos mundiais de Ginástica Rítmica, de 2011 (quando a técnica Camila Ferezin assumiu o comando da seleção brasileira) até 2023 (últlimo mundial), Além disso, é possível analisar através de um gráfico de dispersão quais os países que mais se desenvolveram nesse intervalo de tempo. E, por fim, temos uma predição de resultados para o mundial de 2025, que acontecerá no Brasil, na cidade do Rio de Janeiro.
